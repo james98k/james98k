@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[(https://github-readme-stats.vercel.app/api?username=james98k)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james98k)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **james98k/james98k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

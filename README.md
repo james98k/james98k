@@ -1,7 +1,7 @@
 ### Hi there 👋
-### Currently serving in Korean Army 8th division MLRS base
+### Currently serving in Korean Army 8th division k239 base
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james98k)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james98k)](https://github.com/anuraghazra/github-readme-stats)
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james98k&show_icons=true&theme=radical)
 
 <!--
